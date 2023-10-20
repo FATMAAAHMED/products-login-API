@@ -1,0 +1,15 @@
+D:\ITI_.NET\ASP.NET API\productsApi\Application\bin\Debug\net7.0\ProdductApplication.deps.json
+D:\ITI_.NET\ASP.NET API\productsApi\Application\bin\Debug\net7.0\ProdductApplication.dll
+D:\ITI_.NET\ASP.NET API\productsApi\Application\bin\Debug\net7.0\ProdductApplication.pdb
+D:\ITI_.NET\ASP.NET API\productsApi\Application\obj\Debug\net7.0\ProdductApplication.csproj.AssemblyReference.cache
+D:\ITI_.NET\ASP.NET API\productsApi\Application\obj\Debug\net7.0\ProdductApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI_.NET\ASP.NET API\productsApi\Application\obj\Debug\net7.0\ProdductApplication.AssemblyInfoInputs.cache
+D:\ITI_.NET\ASP.NET API\productsApi\Application\obj\Debug\net7.0\ProdductApplication.AssemblyInfo.cs
+D:\ITI_.NET\ASP.NET API\productsApi\Application\obj\Debug\net7.0\ProdductApplication.csproj.CoreCompileInputs.cache
+D:\ITI_.NET\ASP.NET API\productsApi\Application\obj\Debug\net7.0\ProdductApplication.dll
+D:\ITI_.NET\ASP.NET API\productsApi\Application\obj\Debug\net7.0\refint\ProdductApplication.dll
+D:\ITI_.NET\ASP.NET API\productsApi\Application\obj\Debug\net7.0\ProdductApplication.pdb
+D:\ITI_.NET\ASP.NET API\productsApi\Application\obj\Debug\net7.0\ref\ProdductApplication.dll
+D:\ITI_.NET\ASP.NET API\productsApi\Application\bin\Debug\net7.0\ProductDomain.dll
+D:\ITI_.NET\ASP.NET API\productsApi\Application\bin\Debug\net7.0\ProductDomain.pdb
+D:\ITI_.NET\ASP.NET API\productsApi\Application\obj\Debug\net7.0\ProdductApplication.csproj.CopyComplete

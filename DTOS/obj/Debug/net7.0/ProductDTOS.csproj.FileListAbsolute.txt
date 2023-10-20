@@ -1,0 +1,15 @@
+D:\ITI_.NET\ASP.NET API\productsApi\DTOS\bin\Debug\net7.0\ProductDTOS.deps.json
+D:\ITI_.NET\ASP.NET API\productsApi\DTOS\bin\Debug\net7.0\ProductDTOS.dll
+D:\ITI_.NET\ASP.NET API\productsApi\DTOS\bin\Debug\net7.0\ProductDTOS.pdb
+D:\ITI_.NET\ASP.NET API\productsApi\DTOS\obj\Debug\net7.0\ProductDTOS.csproj.AssemblyReference.cache
+D:\ITI_.NET\ASP.NET API\productsApi\DTOS\obj\Debug\net7.0\ProductDTOS.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI_.NET\ASP.NET API\productsApi\DTOS\obj\Debug\net7.0\ProductDTOS.AssemblyInfoInputs.cache
+D:\ITI_.NET\ASP.NET API\productsApi\DTOS\obj\Debug\net7.0\ProductDTOS.AssemblyInfo.cs
+D:\ITI_.NET\ASP.NET API\productsApi\DTOS\obj\Debug\net7.0\ProductDTOS.csproj.CoreCompileInputs.cache
+D:\ITI_.NET\ASP.NET API\productsApi\DTOS\obj\Debug\net7.0\ProductDTOS.dll
+D:\ITI_.NET\ASP.NET API\productsApi\DTOS\obj\Debug\net7.0\refint\ProductDTOS.dll
+D:\ITI_.NET\ASP.NET API\productsApi\DTOS\obj\Debug\net7.0\ProductDTOS.pdb
+D:\ITI_.NET\ASP.NET API\productsApi\DTOS\obj\Debug\net7.0\ref\ProductDTOS.dll
+D:\ITI_.NET\ASP.NET API\productsApi\DTOS\bin\Debug\net7.0\ProductDomain.dll
+D:\ITI_.NET\ASP.NET API\productsApi\DTOS\bin\Debug\net7.0\ProductDomain.pdb
+D:\ITI_.NET\ASP.NET API\productsApi\DTOS\obj\Debug\net7.0\ProductDTOS.csproj.CopyComplete

@@ -1,0 +1,12 @@
+D:\ITI_.NET\ASP.NET API\productsApi\Domain\obj\Debug\net7.0\ProductDomain.csproj.AssemblyReference.cache
+D:\ITI_.NET\ASP.NET API\productsApi\Domain\obj\Debug\net7.0\ProductDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI_.NET\ASP.NET API\productsApi\Domain\obj\Debug\net7.0\ProductDomain.AssemblyInfoInputs.cache
+D:\ITI_.NET\ASP.NET API\productsApi\Domain\obj\Debug\net7.0\ProductDomain.AssemblyInfo.cs
+D:\ITI_.NET\ASP.NET API\productsApi\Domain\obj\Debug\net7.0\ProductDomain.csproj.CoreCompileInputs.cache
+D:\ITI_.NET\ASP.NET API\productsApi\Domain\bin\Debug\net7.0\ProductDomain.deps.json
+D:\ITI_.NET\ASP.NET API\productsApi\Domain\bin\Debug\net7.0\ProductDomain.dll
+D:\ITI_.NET\ASP.NET API\productsApi\Domain\bin\Debug\net7.0\ProductDomain.pdb
+D:\ITI_.NET\ASP.NET API\productsApi\Domain\obj\Debug\net7.0\ProductDomain.dll
+D:\ITI_.NET\ASP.NET API\productsApi\Domain\obj\Debug\net7.0\refint\ProductDomain.dll
+D:\ITI_.NET\ASP.NET API\productsApi\Domain\obj\Debug\net7.0\ProductDomain.pdb
+D:\ITI_.NET\ASP.NET API\productsApi\Domain\obj\Debug\net7.0\ref\ProductDomain.dll
